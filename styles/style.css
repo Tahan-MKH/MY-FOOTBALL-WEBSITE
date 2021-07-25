@@ -171,4 +171,8 @@ Media Queries
         grid-template-columns: repeat(2,1fr);
         grid-column-gap: 10px;
     }
+    .last-section-button-style{
+        display: flex;
+        flex-wrap: wrap;
+    }
 }
